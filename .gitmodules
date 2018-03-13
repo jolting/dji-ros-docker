@@ -1,0 +1,6 @@
+[submodule "Onboard-SDK"]
+	path = Onboard-SDK
+	url = git@github.com:dji-sdk/Onboard-SDK.git
+[submodule "Onboard-SDK-ROS"]
+	path = Onboard-SDK-ROS
+	url = git@github.com:dji-sdk/Onboard-SDK-ROS.git
